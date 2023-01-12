@@ -1,0 +1,27 @@
+.aysan {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aysan .testimonials {
+  width: 100%;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aysan .profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aysan .profile .img-areaa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aysan .profile .img-areaa .img-area {
+  border-radius: 50%;
+}/*# sourceMappingURL=Duis.css.map */

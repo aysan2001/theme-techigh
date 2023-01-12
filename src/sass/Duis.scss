@@ -1,0 +1,44 @@
+
+
+.aysan{
+ width: 100%;
+ height: 200px;
+//  background-color: green;
+ display: flex;
+ align-items: center;
+justify-content: center;
+
+
+    .testimonials{
+        width: 100%;
+        height: 170px;
+        // background-color: red;
+        display: flex;
+        align-items: center;
+       justify-content: center;
+    }
+
+    .profile{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .img-areaa{
+            // width: 90%;
+            // background-color: blue;
+            // border-radius: 50%;
+            display: flex;
+            align-items: center;
+           justify-content: center;
+
+        
+                
+        .img-area{
+            // width: 100%;
+            // background-color: blue;
+            border-radius: 50%;
+            
+        }
+        }
+    }
+
+}

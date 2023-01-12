@@ -1,0 +1,123 @@
+html {
+  overflow-x: hidden;
+}
+
+.box {
+  width: 100%;
+  height: 50px;
+  background-color: #f5f5f5;
+}
+.box .box-get {
+  width: 90%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.qutu1 {
+  width: 100%;
+  padding: 40px;
+  background-image: url("../img/sekil3.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.qutu2 {
+  width: 100%;
+  padding: 30px;
+  background-image: url("../img/sekil4.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.smartt {
+  width: 90%;
+  height: 180px;
+  padding: 10px;
+  background-image: url("../img/banner-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.smartt1 {
+  width: 90%;
+  height: 180px;
+  padding: 10px;
+  background-image: url("../img/banner-02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.smartt2 {
+  width: 90%;
+  height: 180px;
+  padding: 10px;
+  background-image: url("../img/banner-03.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.smartt3 {
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+  background-image: url("../img/banner-04.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.smartt4 {
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+  background-image: url("../img/banner-05.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.feet {
+  width: 100%;
+  height: 100px;
+  background-color: #ffc600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feet .feet1 {
+  width: 92%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.feet .feet1 .feet1a {
+  width: 50%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.feet .feet1 .feet1a .feet1aa {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.feet .feet1 .feet1b {
+  width: 50%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feet .feet1 .feet1b .feet1bb {
+  width: 60%;
+}/*# sourceMappingURL=style.css.map */
